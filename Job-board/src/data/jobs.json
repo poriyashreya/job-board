@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "TechNova Solutions",
+        "location": "Ahmedabad",
+        "jobType": "Full Time",
+        "salary": "₹4.5 LPA",
+        "experience": "1-3 Years",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "description": "We are looking for a Frontend Developer to build responsive and interactive web applications.",
+        "responsibilities": [
+            "Develop UI components",
+            "Integrate APIs",
+            "Maintain code quality",
+            "Collaborate with backend developers"
+        ],
+        "postedDate": "2026-03-10"
+    },
+    {
+        "id": 2,
+        "title": "Backend Developer",
+        "company": "CodeCraft Pvt Ltd",
+        "location": "Rajkot",
+        "jobType": "Full Time",
+        "salary": "₹5 LPA",
+        "experience": "2-4 Years",
+        "skills": [
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "REST API"
+        ],
+        "description": "Seeking a Backend Developer responsible for server-side logic and API development.",
+        "responsibilities": [
+            "Develop RESTful APIs",
+            "Manage databases",
+            "Ensure security and performance",
+            "Work with frontend developers"
+        ],
+        "postedDate": "2026-03-09"
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "company": "Creative Minds Studio",
+        "location": "Surat",
+        "jobType": "Part Time",
+        "salary": "₹3 LPA",
+        "experience": "1-2 Years",
+        "skills": [
+            "Figma",
+            "Adobe XD",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "description": "Looking for a creative UI/UX Designer to design user-friendly interfaces.",
+        "responsibilities": [
+            "Create wireframes and prototypes",
+            "Improve user experience",
+            "Design responsive layouts",
+            "Work with developers"
+        ],
+        "postedDate": "2026-03-08"
+    },
+    {
+        "id": 4,
+        "title": "Data Analyst",
+        "company": "DataSphere Analytics",
+        "location": "Mumbai",
+        "jobType": "Full Time",
+        "salary": "₹6 LPA",
+        "experience": "2-5 Years",
+        "skills": [
+            "Excel",
+            "SQL",
+            "Python",
+            "Power BI"
+        ],
+        "description": "Analyze business data and generate insights for decision making.",
+        "responsibilities": [
+            "Collect and analyze data",
+            "Prepare reports",
+            "Create dashboards",
+            "Support business teams"
+        ],
+        "postedDate": "2026-03-07"
+    },
+    {
+        "id": 5,
+        "title": "Mobile App Developer",
+        "company": "AppNest Technologies",
+        "location": "Bangalore",
+        "jobType": "Full Time",
+        "salary": "₹7.5 LPA",
+        "experience": "3-5 Years",
+        "skills": [
+            "Flutter",
+            "React Native",
+            "Dart",
+            "Firebase"
+        ],
+        "description": "Develop high-performance mobile applications for Android and iOS.",
+        "responsibilities": [
+            "Build mobile apps",
+            "Fix bugs and optimize performance",
+            "Integrate APIs",
+            "Publish apps on stores"
+        ],
+        "postedDate": "2026-03-06"
+    }
+]
